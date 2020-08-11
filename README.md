@@ -1,0 +1,2 @@
+This repo utility is to improve my knowledge of the pandas library. All the exercise are based on the repo [pandas_exercices](https://github.com/guipsamora/pandas_exercises) made by [Guilherme Samora](https://github.com/guipsamora)
+> I choose to not for his repo because I didn't want to have the solutions right in front of me.
